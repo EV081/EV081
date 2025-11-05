@@ -1,5 +1,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/elmer-villegas-suarez-34b3a5391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elmer-villegas-suarez-34b3a5391" height="30" width="40" /></a>
 <a href="https://instagram.com/evsz_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="evsz_01" height="30" width="40" /></a>
 </p>
 
